@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linux_GNU/Commands.md",
+            "file": "Python/numpy.md",
             "mode": "source",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Prop",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux_GNU/Commands.md",
+                "file": "Python/numpy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "a5b5af8db5951572",
   "lastOpenFiles": [
-    "Linux_GNU/Commands.md",
+    "Python/numpy.md",
+    "dunder method.md",
+    "Python/Python_Misc.md",
+    "Cpp_Weekly_Cpp23.md",
+    "Programming_Paradigms.md",
+    "Python/python_os.md",
+    "C/C_getenv.md",
+    "Python/Jupyter_Notebook.md",
     "Machine_Learning/Learn_Code_Propensity_analysis.md",
-    "Machine_Learning/Misc.md",
-    "Machine_Learning/Research _ RE.md",
-    "Machine_Learning/SciKit_Learn_FE.md",
-    "Machine_Learning/Sklearn.md",
-    "Machine_Learning/Basic_Concepts_Summary.md",
-    "MISC_INFO.md",
-    "Machine_Learning/img/Traditional-Programming-vs-Machine-Learning-768x545.webp",
-    "Git.md"
+    "Machine_Learning/Sklearn.md"
   ]
 }

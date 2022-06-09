@@ -1,7 +1,7 @@
 # TOOLS HEARD OF OR USED AND EXPERIENCED WITH
 1. [[Python]]
 2. [[Cpp]]
-3. [[C]]
+3. [[C_Basics]]
 4. [[Objective-C]]
 5. [[Haskell]]
 6. [[Matlab]]
@@ -12,7 +12,7 @@
 11. [[Ansys]]
 12. [[OpenFoam]]
 13. [[Godot]]
-14. [[C#]]
+14. [[C_Basics#]]
 15. [[MongoDB]]
 16. [[SQL]]
 17. [[Assembly]]
