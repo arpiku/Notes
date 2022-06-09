@@ -8,3 +8,7 @@
 	1. The above command will convert the resulting manual into pdf and then pipe the result to zathura (a pdf reader), the '-' symbol after zathura tells it to read from std output, thie will convert the manual into pdf and zathura will read and show it in a temporary file.
 	2. '|' is the Linux or Unix pipeline operator. [[Pipelines]].
 4. -T modifer can also output in other formats like -Tps for post script
+
+# rm
+1. rm -r to remove dirs, sudo rm -r to remove everything without verifying again.
+
