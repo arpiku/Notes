@@ -160,9 +160,33 @@ a = np.array([10,14,24,22,31,48])
 even = np.argwhere(a%2 == 0).flatten()
 print(even)
 
-arr = np.arrange(1,7) #create 1D array with numbers 1-6
+arr = np.arange(1,7) #create 1D array with numbers 1-6
 b = arr.reshape(2,3) #new shape parameters
 
 #creating new axis
-  
+~~~
+
+
+# numpy from documentation
+np.(array, dtype = datatype) this can be used to explicitly specify the array datatype.
+
+`np.array()`, `np.zeros()`, `np.ones()`, `np.empty()`, `np.arange()`, `np.linspace()`, `dtype`
+
+The default datatype can be define, empty arrays ([]) can be defined using the above function, they look like common non-array based elements but still belong to np array class object..
+
+np has a direct sort function
+~~~python
+
+np.ones(2, dtype=np.int64).
+np.ones([], dtype=np.int64). #ouput = 1
+
+np.sort(arr) #numpy has more unique sorting capabilities too, like sorting particular row or column etc.
+
+
+np.concatenate((x,y), axis=(None|1|0))
+
+np.reshape(a, newshape=(1, 6), order='C') #this 'C' this is interesting
+
+#'C' is for C like indexing, 'F' is fortran like indexing
+
 

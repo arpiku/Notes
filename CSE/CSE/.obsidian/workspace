@@ -90,14 +90,14 @@
   "active": "a5b5af8db5951572",
   "lastOpenFiles": [
     "Python/numpy.md",
-    "dunder method.md",
-    "Python/Python_Misc.md",
-    "Cpp_Weekly_Cpp23.md",
-    "Programming_Paradigms.md",
-    "Python/python_os.md",
-    "C/C_getenv.md",
+    "Python/Python_expert_features.md",
     "Python/Jupyter_Notebook.md",
-    "Machine_Learning/Learn_Code_Propensity_analysis.md",
-    "Machine_Learning/Sklearn.md"
+    "Python/Pypi_pip_Conda.md",
+    "Python/Python_Misc.md",
+    "Python/python_os.md",
+    "Machine_Learning/Research _ RE.md",
+    "dunder method.md",
+    "Cpp_Weekly_Cpp23.md",
+    "Programming_Paradigms.md"
   ]
 }
