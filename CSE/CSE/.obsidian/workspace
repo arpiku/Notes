@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Python/numpy.md",
+            "file": "Dynamic Programming.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/numpy.md",
+                "file": "Dynamic Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "a5b5af8db5951572",
   "lastOpenFiles": [
+    "Dynamic Programming.md",
     "Python/numpy.md",
     "Python/Python_expert_features.md",
     "Python/Jupyter_Notebook.md",
@@ -97,7 +98,6 @@
     "Python/python_os.md",
     "Machine_Learning/Research _ RE.md",
     "dunder method.md",
-    "Cpp_Weekly_Cpp23.md",
-    "Programming_Paradigms.md"
+    "Cpp_Weekly_Cpp23.md"
   ]
 }
