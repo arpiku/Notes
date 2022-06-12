@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dynamic Programming.md",
+            "file": "Linux_GNU/Commands_terminal.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dynamic Programming.md",
+                "file": "Linux_GNU/Commands_terminal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "a5b5af8db5951572",
   "lastOpenFiles": [
+    "Linux_GNU/Commands_terminal.md",
+    "Linux_GNU/Commands.md",
     "Dynamic Programming.md",
     "Python/numpy.md",
     "Python/Python_expert_features.md",
@@ -96,8 +98,6 @@
     "Python/Pypi_pip_Conda.md",
     "Python/Python_Misc.md",
     "Python/python_os.md",
-    "Machine_Learning/Research _ RE.md",
-    "dunder method.md",
-    "Cpp_Weekly_Cpp23.md"
+    "Machine_Learning/Research _ RE.md"
   ]
 }

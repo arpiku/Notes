@@ -12,4 +12,3 @@
 # rm
 1. rm -r to remove dirs, sudo rm -r to remove everything without verifying again.
 
-d
