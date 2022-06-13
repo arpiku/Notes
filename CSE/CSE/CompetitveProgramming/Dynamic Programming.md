@@ -8,7 +8,7 @@ def fib(x):
 ~~~
 for n>>1 this is really inefficient.
 
-![[snapshot.jpg]]
+![[Linux_GNU/img/snapshot.jpg]]
 
 Some more examples 
 ![[snapshot_2.jpg]]
