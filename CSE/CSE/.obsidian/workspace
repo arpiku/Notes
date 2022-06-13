@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personalize.md",
+            "file": "Git_Misc.md",
             "mode": "source",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Prop",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personalize.md",
+                "file": "Git_Misc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "a5b5af8db5951572",
   "lastOpenFiles": [
+    "Git_Misc.md",
+    "Git.md",
+    "Untitled 1.md",
     "Personalize.md",
     "Linux_GNU/Commands_terminal.md",
     "Linux_GNU/Commands.md",
     "Dynamic Programming.md",
     "Python/numpy.md",
     "Python/Python_expert_features.md",
-    "Python/Jupyter_Notebook.md",
-    "Python/Pypi_pip_Conda.md",
-    "Python/Python_Misc.md",
-    "Python/python_os.md"
+    "Python/Jupyter_Notebook.md"
   ]
 }

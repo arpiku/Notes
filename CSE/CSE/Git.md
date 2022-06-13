@@ -27,4 +27,7 @@
 1. This is particular to **Github**, they are mainly for the purpose of collaborating on github, one can notice problems/ mistakes/ bugs etc in a project.
 2. Once an issue is raised, the repo creator and contributors can review it and resolve the issue.
 3. One can paste the *commit hash* in the issue raised, and it will create a link within the issue, and the link will lead to the to commit.
-4. 
+
+
+
+
