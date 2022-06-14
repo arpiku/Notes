@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "misc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,14 +90,14 @@
   "active": "a5b5af8db5951572",
   "lastOpenFiles": [
     "Machine_Learning/Book_AAAMLP.md",
+    "Linux_GNU/Misc_commands.md",
+    "Machine_Learning/Research _ RE.md",
     "DataBases/MongoDB/Misc_MongoDB.md",
     "DataBases/MongoDB/ExampleAggregationCode.md",
-    "Machine_Learning/Research _ RE.md",
     "Churn.md",
     "Machine_Learning/RE_tutorial.md",
     "Machine_Learning/Naive Bayes filtering.md",
     "Collaborative filtering.md",
-    "Machine_Learning/ALS Implicit Collaborative Filtering.md",
-    "Machine_Learning/Hyperparameters.md"
+    "Machine_Learning/ALS Implicit Collaborative Filtering.md"
   ]
 }
