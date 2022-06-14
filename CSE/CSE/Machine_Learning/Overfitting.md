@@ -1,9 +1,10 @@
+
 # Overfitting
 
 1. This is when the trained model tries too hard to stick to the training data and is very strict in it's classification.
 2. For exmple a model trained on a singular model of car would refuse to recoganize any other car as a car.
 3. **When our model fails to generalize well.**
-![[Overfitting]]
+![[Overfitting.png]]
 ### Similar
 1. Similar to this there is the concept of underfitting where the model is way to forgiving, and gives results that are not at all closed to the what is required.
 
