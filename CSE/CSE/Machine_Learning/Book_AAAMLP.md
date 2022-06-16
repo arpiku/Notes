@@ -29,7 +29,7 @@ loss will reach its minima, and after that, it will start increasing even though
 loss decreases further. We must stop training where the validation loss reaches its  
 minimum value.**
 
-10. **Occam’s razor in simple words states that one should not try to complicate things  
+10. ***Occam’s razor* in simple words states that one should not try to complicate things  
 that can be solved in a much simpler manner**
 
 # Cross Validation
@@ -48,4 +48,5 @@ generalizable when it comes to unseen data.
 4. **We can split any data into k-equal parts using [[KFold from scikit-learn]]. Each sample  
 is assigned a value from 0 to k-1 when using k-fold cross validation.**
 
-5. 
+5. When using very scewed dataset the simple K-Fold cross validation scheme is not that great, as one might end up with all the bias in a sinlge fold, using stratified KFold is bette since it will keep the number of positive and negative examples uniform across the board.
+6. 
