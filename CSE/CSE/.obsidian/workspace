@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Python/Python_Basics.md",
+            "file": "Python/selenium.md",
             "mode": "source",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tidy",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Python_Basics.md",
+                "file": "Python/selenium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "a5b5af8db5951572",
   "lastOpenFiles": [
-    "Python/Python_Basics.md",
-    "Python/Python_Misc.md",
-    "Python/Python_Libraries.md",
-    "Machine_Learning/Basic_Concepts_Summary.md",
-    "Data_Science/Misc.md",
-    "Cpp/Misc.md",
-    "Machine_Learning/Book_AAAMLP.md",
+    "Python/selenium.md",
+    "Data_Science/Data_Mining.md",
+    "newspaper3k.md",
+    "Machine_Learning/Misc.md",
     "Python/Pep8.md",
-    "Python/Python_expert_features.md",
-    "Cpp/Cpp_Weekly_Cpp23.md"
+    "Machine_Learning/autokeras.md",
+    "Machine_Learning/autosklearn.md",
+    "Machine_Learning/Misc_Terminology.md",
+    "Machine_Learning/Automl.md",
+    "Machine_Learning/pickle.md"
   ]
 }
