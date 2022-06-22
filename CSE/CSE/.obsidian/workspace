@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Python/selenium.md",
+            "file": "Python/Python_Basics.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/selenium.md",
+                "file": "Python/Python_Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "a5b5af8db5951572",
   "lastOpenFiles": [
+    "Python/Python_Basics.md",
+    "Python/Pypi_pip_Conda.md",
+    "Python/goose.md",
+    "AWS/AWS_basics.md",
+    "Machine_Learning/Cosine_similarity.md",
+    "Python/Gensim.md",
+    "Python/decorator.md",
+    "Python/dunder method.md",
     "Python/selenium.md",
-    "Data_Science/Data_Mining.md",
-    "newspaper3k.md",
-    "Machine_Learning/Misc.md",
-    "Python/Pep8.md",
-    "Machine_Learning/autokeras.md",
-    "Machine_Learning/autosklearn.md",
-    "Machine_Learning/Misc_Terminology.md",
-    "Machine_Learning/Automl.md",
-    "Machine_Learning/pickle.md"
+    "Data_Science/Data_Mining.md"
   ]
 }
