@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Python/Python_Basics.md",
+            "file": "Python/Jupyter_Notebook.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Python_Basics.md",
+                "file": "Python/Jupyter_Notebook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "a5b5af8db5951572",
   "lastOpenFiles": [
-    "Python/Python_Basics.md",
-    "Python/Pypi_pip_Conda.md",
-    "Python/goose.md",
-    "AWS/AWS_basics.md",
-    "Machine_Learning/Cosine_similarity.md",
+    "Python/Jupyter_Notebook.md",
+    "Python/Tools.md",
+    "Python/Numba.md",
+    "img/API.jpg",
+    "Machine_Learning/NLP/Transformers.md",
+    "Machine_Learning/NLP/Text Vectorization.md",
     "Python/Gensim.md",
-    "Python/decorator.md",
-    "Python/dunder method.md",
-    "Python/selenium.md",
-    "Data_Science/Data_Mining.md"
+    "Machine_Learning/Apache spark.md",
+    "Python/Python_Basics.md",
+    "Python/Pypi_pip_Conda.md"
   ]
 }
