@@ -9,4 +9,4 @@
 ~~~python
 1. %pylab inline () # for automatic import of needed libraries
 2. %time (func) # to print the time taken by the given function to execute
-   
+~~~   
