@@ -7,8 +7,12 @@
         "id": "a5b5af8db5951572",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Machine_Learning/Research _ RE.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "python",
+                "query": "Recom",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Machine_Learning/Research _ RE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "a5b5af8db5951572",
   "lastOpenFiles": [
+    "Machine_Learning/Research _ RE.md",
+    "Convisitation counts.md",
+    "MinHash clustering.md",
+    "Python/Dockerizing_Ml_app.md",
     "Python/Context_manger.md",
     "Python/Code_Smells.md",
     "Python/Python_Basics_01.md",
     "Python/Python_Basics.md",
     "Python/Untitled.md",
-    "Python/Python__OOP.md",
-    "Distributed_Systems/Ray.md",
-    "Python/xarray.md",
-    "Python/dask.array.md",
-    "Python/decorator.md"
+    "Python/Python__OOP.md"
   ]
 }
